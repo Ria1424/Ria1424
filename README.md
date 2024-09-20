@@ -36,6 +36,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/coderria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coderria" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coderria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coderria" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/coderriasc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coderriasc" height="30" width="40" /></a>
 <!-----
   <a href="https://www.hackerearth.com/hckerriasc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hckerriasc" height="30" width="40" /></a>
 </p> 
